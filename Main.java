@@ -1,8 +1,8 @@
-package javaapplication23;
+package javaapplication;
 
 import java.util.Scanner;
 
-public class JavaApplication23 {
+public class JavaApplication {
 
    public static void main(String[] args) {
        
